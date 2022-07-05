@@ -1,4 +1,4 @@
-# wavefunctioncollapse
+# Wave Function Collapse
 Wave function collapse algorithm for image generation in p5.js
 
 ## Features to add
